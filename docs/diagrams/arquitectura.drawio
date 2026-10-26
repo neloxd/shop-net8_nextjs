@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" agent="RealPlaza technical challenge" version="24.7.17" type="device">
+  <diagram id="page-1" name="Arquitectura">
+    <mxGraphModel dx="1520" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1520" pageHeight="1070" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Real Plaza / Arquitectura de software" style="rounded=0;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f8f7fc;strokeColor=#f8f7fc;fontColor=#30233f;fontSize=34;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="35" y="24" width="1300" height="52" />
+        </mxCell>
+        <mxCell id="3" value="Login + CRUD de tiendas · .NET 8 / Next.js / PostgreSQL · entrega local reproducible" style="rounded=0;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f8f7fc;strokeColor=#f8f7fc;fontColor=#8a769b;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="35" y="83" width="1300" height="35" />
+        </mxCell>
+        <mxCell id="4" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#dfd5ec;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="160" width="300" height="500" />
+        </mxCell>
+        <mxCell id="5" value="01   NAVEGADOR&lt;br&gt;React · TypeScript · Tailwind" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#35204f;strokeColor=#35204f;fontColor=#ffffff;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="160" width="300" height="85" />
+        </mxCell>
+        <mxCell id="6" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#dfd5ec;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="425" y="160" width="300" height="500" />
+        </mxCell>
+        <mxCell id="7" value="02   NEXT.JS&lt;br&gt;Servidor web / BFF" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#35204f;strokeColor=#35204f;fontColor=#ffffff;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="425" y="160" width="300" height="85" />
+        </mxCell>
+        <mxCell id="8" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#dfd5ec;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="810" y="160" width="310" height="500" />
+        </mxCell>
+        <mxCell id="9" value="03   API .NET 8&lt;br&gt;ASP.NET Core · C#" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#35204f;strokeColor=#35204f;fontColor=#ffffff;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="810" y="160" width="310" height="85" />
+        </mxCell>
+        <mxCell id="10" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#dfd5ec;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1200" y="160" width="280" height="500" />
+        </mxCell>
+        <mxCell id="11" value="04   POSTGRESQL&lt;br&gt;Base de datos relacional" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#35204f;strokeColor=#35204f;fontColor=#ffffff;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1200" y="160" width="280" height="85" />
+        </mxCell>
+        <mxCell id="12" value="Vistas&lt;br&gt;Login · Directorio de tiendas" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62" y="270" width="256" height="82" />
+        </mxCell>
+        <mxCell id="13" value="Componentes&lt;br&gt;Tabla · Modal · Botón · Campos" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62" y="372" width="256" height="88" />
+        </mxCell>
+        <mxCell id="14" value="React Hook Form + Zod&lt;br&gt;Validación y mensajes de error" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62" y="480" width="256" height="84" />
+        </mxCell>
+        <mxCell id="15" value="Cookie de sesión HttpOnly" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f1eafa;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62" y="581" width="256" height="57" />
+        </mxCell>
+        <mxCell id="16" value="App Router&lt;br&gt;/login y /tiendas&lt;br&gt;Verificación de sesión en servidor" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="447" y="270" width="256" height="90" />
+        </mxCell>
+        <mxCell id="17" value="Route Handler /api/[...path]&lt;br&gt;Rutas permitidas · Control Origin&lt;br&gt;Cookie → Authorization: Bearer&lt;br&gt;Errores y timeout" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="447" y="382" width="256" height="106" />
+        </mxCell>
+        <mxCell id="18" value="Sesión&lt;br&gt;JWT inaccesible a JavaScript&lt;br&gt;SameSite=Strict · duración 60 min&lt;br&gt;Secure cuando se usa HTTPS&lt;br&gt;Logout elimina la cookie" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f1eafa;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="447" y="510" width="256" height="128" />
+        </mxCell>
+        <mxCell id="19" value="AuthController&lt;br&gt;Login · /me · límite de intentos&lt;br&gt;PasswordService + TokenService" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="832" y="270" width="266" height="94" />
+        </mxCell>
+        <mxCell id="20" value="TiendasController&lt;br&gt;GET público · POST/PUT/DELETE&lt;br&gt;Escrituras protegidas con JWT&lt;br&gt;DTOs y validación del servidor" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="832" y="386" width="266" height="104" />
+        </mxCell>
+        <mxCell id="21" value="TiendaService&lt;br&gt;Reglas y operaciones CRUD&lt;br&gt;AppDbContext / EF Core 8&lt;br&gt;Proveedor Npgsql&lt;br&gt;Consultas parametrizadas" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#eaf5f3;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="832" y="512" width="266" height="126" />
+        </mxCell>
+        <mxCell id="22" value="usuarios&lt;br&gt;id · nombre_usuario&lt;br&gt;password_hash · activo" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#eaf5f3;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1222" y="278" width="236" height="103" />
+        </mxCell>
+        <mxCell id="23" value="tiendas&lt;br&gt;id · nombre · categoria&lt;br&gt;activo · creado_en" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#eaf5f3;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1222" y="405" width="236" height="113" />
+        </mxCell>
+        <mxCell id="24" value="Integridad&lt;br&gt;PK · usuario único · CHECK&lt;br&gt;Índices · persistencia" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1222" y="545" width="236" height="93" />
+        </mxCell>
+        <mxCell id="25" value="HTTP&lt;br&gt;JSON" style="edgeStyle=none;html=1;endArrow=block;endFill=1;strokeColor=#79698e;strokeWidth=2;dashed=0;fontSize=12;fontFamily=Arial;fontColor=#675778;labelBackgroundColor=#f8f7fc;" edge="1" parent="1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="341" y="315" />
+            <mxPoint as="targetPoint" x="424" y="315" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="HTTP&lt;br&gt;JWT" style="edgeStyle=none;html=1;endArrow=block;endFill=1;strokeColor=#79698e;strokeWidth=2;dashed=0;fontSize=12;fontFamily=Arial;fontColor=#675778;labelBackgroundColor=#f8f7fc;" edge="1" parent="1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="726" y="315" />
+            <mxPoint as="targetPoint" x="809" y="315" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="SQL&lt;br&gt;TCP" style="edgeStyle=none;html=1;endArrow=block;endFill=1;strokeColor=#79698e;strokeWidth=2;dashed=0;fontSize=12;fontFamily=Arial;fontColor=#675778;labelBackgroundColor=#f8f7fc;" edge="1" parent="1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="1121" y="568" />
+            <mxPoint as="targetPoint" x="1199" y="568" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="DESARROLLO Y ENTREGA" style="rounded=0;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f8f7fc;strokeColor=#f8f7fc;fontColor=#7d6596;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="687" width="1420" height="35" />
+        </mxCell>
+        <mxCell id="29" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="745" width="695" height="217" />
+        </mxCell>
+        <mxCell id="30" value="Ejercicios de lógica / ejecutable de consola independiente" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f1eafa;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="60" y="764" width="655" height="44" />
+        </mxCell>
+        <mxCell id="31" value="Program.cs&lt;br&gt;Demostración y --self-test&lt;br&gt;No forma parte de la API" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="60" y="829" width="225" height="108" />
+        </mxCell>
+        <mxCell id="32" value="OrderRange.cs / Build · LINQ" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="375" y="824" width="340" height="54" />
+        </mxCell>
+        <mxCell id="33" value="MoneyParts.cs / Build · céntimos + backtracking" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=13;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="375" y="892" width="340" height="54" />
+        </mxCell>
+        <mxCell id="34" value="ejecuta" style="edgeStyle=none;html=1;endArrow=block;endFill=1;strokeColor=#79698e;strokeWidth=2;dashed=0;fontSize=12;fontFamily=Arial;fontColor=#675778;labelBackgroundColor=#f8f7fc;" edge="1" parent="1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="287" y="852" />
+            <mxPoint as="targetPoint" x="373" y="852" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="ejecuta" style="edgeStyle=none;html=1;endArrow=block;endFill=1;strokeColor=#79698e;strokeWidth=2;dashed=0;fontSize=12;fontFamily=Arial;fontColor=#675778;labelBackgroundColor=#f8f7fc;" edge="1" parent="1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="287" y="919" />
+            <mxPoint as="targetPoint" x="373" y="919" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="765" y="745" width="715" height="217" />
+        </mxCell>
+        <mxCell id="37" value="Inicialización y configuración local" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#eaf5f3;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="785" y="764" width="675" height="44" />
+        </mxCell>
+        <mxCell id="38" value="scripts/iniciar.sh&lt;br&gt;.env local con claves generadas&lt;br&gt;API + Next.js en tu equipo" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="785" y="829" width="295" height="108" />
+        </mxCell>
+        <mxCell id="39" value="Docker Compose → PostgreSQL&lt;br&gt;init.sql → tablas + usuario demo&lt;br&gt;Volumen persistente" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0d8ed;fontColor=#30233f;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1160" y="829" width="300" height="108" />
+        </mxCell>
+        <mxCell id="40" value="arranca" style="edgeStyle=none;html=1;endArrow=block;endFill=1;strokeColor=#79698e;strokeWidth=2;dashed=0;fontSize=12;fontFamily=Arial;fontColor=#675778;labelBackgroundColor=#f8f7fc;" edge="1" parent="1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="1082" y="883" />
+            <mxPoint as="targetPoint" x="1158" y="883" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="Puertos locales: web 3000 · API 5080 · PostgreSQL 54329. HTTP solo en localhost; HTTPS al desplegar." style="rounded=0;arcSize=12;whiteSpace=wrap;html=1;fillColor=#f8f7fc;strokeColor=#f8f7fc;fontColor=#8a769b;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="990" width="1440" height="42" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
